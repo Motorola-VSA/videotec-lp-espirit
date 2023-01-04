@@ -1,1 +1,1 @@
-# videotec-lp-espirit
+# eloqua-lp-template
