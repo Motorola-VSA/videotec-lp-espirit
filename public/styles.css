@@ -786,6 +786,11 @@ html {
   margin-right: auto;
 }
 
+.my-0 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 .-mr-2 {
   margin-right: -0.5rem;
 }
@@ -885,6 +890,10 @@ html {
 
 .max-h-24 {
   max-height: 6rem;
+}
+
+.max-h-32 {
+  max-height: 8rem;
 }
 
 .max-h-120 {
