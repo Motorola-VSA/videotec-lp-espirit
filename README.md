@@ -1,1 +1,0 @@
-# eloqua-lp-template
